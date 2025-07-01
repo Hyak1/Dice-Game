@@ -23,6 +23,7 @@ public class Dice {
             } else {
                 System.out.println(name + " lost!");
                 }
+        
         scanner.close();
     }
 }
